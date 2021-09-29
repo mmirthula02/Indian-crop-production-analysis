@@ -20,16 +20,32 @@ influence the crop production.
 ### Tools :
 
 - Data Cleaning (EDA) - Python (Pandas & Numpy)
-- Visualizations - Python (Matplotlib)
+- Visualizations - Python (Matplotlib , Seaborn)
 - Dashboard - Tableau
 
 ### Data Cleaning :
 
-Data cleaning and EDA process is done through python , Pandas libraies. There are no duplicate records found. Null values can be found for the production tuple.Hence the null values are imputed based on the mean of the productions in similar districts.Post that Bivariate and Univariate analysis is done to analyse the importance of each variable. Two new columns are added into the data frame :- Zones and categorical crops. The states are categorised based on their respective zones such as North zone , South Zone , East Zone , West Zone , North east Zone , Union terriorteries and central India. Different types of crops are classified into their respective categories like Cereals , Pulses , Oilseeds , Vegetables, Spices, nuts , Commercial , Fibres , Beans nad fruits. The additional columns aids us to bring more insights and highlight key indicators that influence the crop production. The new data frame after data cleaning is exported into excel file and is loaded into Tableau dashboard to build the dashboard. 
+Data cleaning and EDA process is done through python , Pandas libraies. There are no duplicate records found. Null values can be found for the production tuple.Hence the null values are imputed based on the mean of the productions in similar districts.Post that Bivariate and Univariate analysis is done to analyse the importance of each variable. Two new columns are added into the data frame :- Zones and categorical crops. The states are categorised based on their respective zones such as North zone , South Zone , East Zone , West Zone , North east Zone , Union terriorteries and central India. Different types of crops are classified into their respective categories like Cereals , Pulses , Oilseeds , Vegetables, Spices, nuts , Commercial , Fibres , Beans and fruits. The additional columns aids us to bring more insights and highlight key indicators that influence the crop production. The new data frame after data cleaning is exported into excel file and is loaded into Tableau dashboard to build the dashboard. 
 
 
-### Visualisations and insights gained 
+### Visualisations and insights gained :
 
+Visualisation process is done through Matplotlib and Seaborn libaray.
+Finding and visualisations are done for 
+- Zone wise total production
+- Analysing the state in south zone which produces the highest production
+- Analysing the district zone in kerala which gives the highest production
+- Crop wise and categorical crop wise productions
+- Season wise productions 
+- Crop year wise productions
+- Analysing the growth of categorical crops in different seasons in different states in India
+- Production of crop categories
+- State that dominates in crop production by producing a variety of crop categories
+- To find which crop is grown in high frequency in India and few insights are deduced and visualised
+- To deduce and visualise the state that ranks high in Area wise crop production
+- Top crops produced in Northen zone
+- Top crops produced in Sothern zone
+- Top crops produced in Central zone
 
 ### Dashboard :
 
