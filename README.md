@@ -25,10 +25,14 @@ influence the crop production.
 
 ### Data Cleaning :
 
+**IDE - Jupiter notebook**
+
 Data cleaning and EDA process is done through python , Pandas libraies. There are no duplicate records found. Null values can be found for the production tuple.Hence the null values are imputed based on the mean of the productions in similar districts.Post that Bivariate and Univariate analysis is done to analyse the importance of each variable. Two new columns are added into the data frame :- Zones and categorical crops. The states are categorised based on their respective zones such as North zone , South Zone , East Zone , West Zone , North east Zone , Union terriorteries and central India. Different types of crops are classified into their respective categories like Cereals , Pulses , Oilseeds , Vegetables, Spices, nuts , Commercial , Fibres , Beans and fruits. The additional columns aids us to bring more insights and highlight key indicators that influence the crop production. The new data frame after data cleaning is exported into excel file and is loaded into Tableau dashboard to build the dashboard. 
 
 
 ### Visualisations and insights gained :
+
+**IDE - Jupiter notebook**
 
 Visualisation process is done through Matplotlib and Seaborn libaray.
 Finding and visualisations are done for 
