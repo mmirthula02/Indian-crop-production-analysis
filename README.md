@@ -51,12 +51,13 @@ Finding and visualisations are done for
 - Top crops produced in Sothern zone
 - Top crops produced in Central zone
 
-### Dashboard :
+### Dashboard 1 : Indian crop production analysis
 
-![Dashboard Crop production](https://user-images.githubusercontent.com/51138087/135317317-9c01ee38-8c8d-4f26-95fa-cba78b4a16fc.png)
+![Dashboard Indian crop prod](https://user-images.githubusercontent.com/51138087/135424532-8d5b14bf-2e5b-48d0-8ac1-c2bd7e9095e7.png)
 
-- South Zone wise - High production crops : Kerala followed by Andhara Pradhesh & Tamil Nadu
-- North Zone wise  - High production crops : Uttar Pradhesh followed by Punjab and Harayana
+- Top crops of India : Rice followed by Maize
+- Area vs production growth
+- Over all zonal productions
 - Production rate for categorical crops : Commercial crops are yeilded the most in high productions
 - Production rate for different tyoes of crops : Coconut is yeilded in high rate
 - Production rate from 1197 to 2015 : Steady growth fron 2011 to 2015 & higher production in 2011
@@ -64,6 +65,22 @@ Finding and visualisations are done for
 - Production rate statewise - Kerala followed by A.P ,T.N and U.P
 - Area in sq.ft allocated for crop production in different states of India - Kerala , M.P
 - Domination of states in regards to different categorical crops - Uttarpradesh provides a variety of categorical crops and its greater in production wise compared to other states.
+
+
+### Dashboard 2 : Zone wise crop production analysis
+
+![Zone wise crop production dashboard](https://user-images.githubusercontent.com/51138087/135424555-b20f4cbb-c5b3-44d8-a483-d7e424b97ca7.png)
+
+Zonal wise analysis for production rate , area given for cultivation , crop domaination , seasonal production rate , categorical crop production rate
+
+
+### Story : Domaination of states in crop production based on various factors 
+
+![Story 1](https://user-images.githubusercontent.com/51138087/135425756-7a86132e-cf98-4ca7-b184-0a8d1daf134f.png)
+
+Domaination of states in crop production based on various factors like Season , crop categories and crop rate.
+
+View full story : [Story 1.pdf](https://github.com/mmirthula02/Indian-crop-production-analysis/files/7258354/Story.1.pdf)
 
 
 
