@@ -76,11 +76,11 @@ Zonal wise analysis for production rate , area given for cultivation , crop doma
 
 ### Story : Domaination of states in crop production based on various factors 
 
-![Story 1](https://user-images.githubusercontent.com/51138087/135425756-7a86132e-cf98-4ca7-b184-0a8d1daf134f.png)
+![Story 1](https://user-images.githubusercontent.com/51138087/135427795-cf9fef1f-50e6-43f1-a853-495240b5a95c.png)
 
 Domaination of states in crop production based on various factors like Season , crop categories and crop rate.
 
-View full story : [Story 1.pdf](https://github.com/mmirthula02/Indian-crop-production-analysis/files/7258354/Story.1.pdf)
+View full story : [Story 1.pdf](https://github.com/mmirthula02/Indian-crop-production-analysis/files/7258443/Story.1.pdf)
 
 
 
