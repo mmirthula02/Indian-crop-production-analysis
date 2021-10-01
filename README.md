@@ -53,7 +53,7 @@ Finding and visualisations are done for
 
 ### Dashboard 1 : Indian crop production analysis
 
-![Dashboard Indian crop prod](https://user-images.githubusercontent.com/51138087/135424532-8d5b14bf-2e5b-48d0-8ac1-c2bd7e9095e7.png)
+![Dashboard Indian crop prod](https://user-images.githubusercontent.com/51138087/135665126-ad743b0c-c3d5-4895-aef8-99ca1354c0cb.png)
 
 - Top crops of India : Rice followed by Maize
 - Area vs production growth
